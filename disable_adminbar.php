@@ -1,13 +1,16 @@
 <?php
 /**
- * Plugin Name: Disable adminbar for non-admins
- * Description: This plugin deactivates the admin toolbar for all the users except for the admins.
- * Version: 1.0.0
- * Author: Shihab
- * Author URI: https://shihabiiuc.com/
- * License: GPLv2 or later
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
- *
+ * Plugin Name:       Disable adminbar for non-admins
+ * Description:       This plugin deactivates the admin toolbar for all the users except for the admins.
+ * Version:           1.0.0
+ * Requires at least: 5.2
+ * Requires PHP:      7.0
+ * Author:            Shihab
+ * Author URI:        https://shihabiiuc.com/author/shihab/
+ * License:           GPLv2 or later
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       disable-adminbar
+ * 
  * @package Shihabiiuc
  */
 
